@@ -1,0 +1,3 @@
+ng g component product , g = generate , product can be changed
+
+npm install bootstrap
